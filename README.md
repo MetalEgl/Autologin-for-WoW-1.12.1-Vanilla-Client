@@ -1,17 +1,4 @@
-# Turtle AutoLogin
-
-Patch for Turtle WoW client that adds auto login and account info saving features.
-
-> This patch saves your login info into `\WTF\Config.wtf` so keep in mind that it will **contain your passwords** and thus you should think before sharing this file with someone else.
-
-## Features
-
-- Adds an Accounts select panel to the login screen
-- Automatically adds accounts with saved login info to the list
-- Select accounts to log in (double-click to login directly)
-- Check "Auto-login this character" in character select screen to always automatically load into game with this character selected in future logins
-- Remove saved character and accounts with controls at the bottom
-
+Clean turtle-wow data from files to create generic patch that works with any wow 1.12.1 client.
 ## Installation
 
 ### [Patch-Y.MPQ download link](../../releases/download/release/Patch-Y.mpq)

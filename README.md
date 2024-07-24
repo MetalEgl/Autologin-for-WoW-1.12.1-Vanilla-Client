@@ -1,7 +1,7 @@
 Clean turtle-wow data from files to create generic patch that works with any wow 1.12.1 client.
 ## Installation
 
-### [Patch-Y.MPQ download link](../../releases/download/release/Patch-Y.mpq)
+### [Patch-Y.MPQ download link][(../../releases/download/release/Patch-Y.mpq)](https://github.com/MetalEgl/Autologin-for-WoW-1.12.1-Vanilla-Client/releases/download/v1.0/Patch-Y.mpq)
 
 Download the `Patch-Y.MPQ` and place the file inside `\Data` folder of your client.
 
